@@ -1,0 +1,8 @@
+﻿feature,point,stderr,p_value,ci_lower,ci_upper
+Impressions,0,0,0.001,0,0
+Customer Acquisition Cost,-3.1,0.1,0.002,-3.2,-3
+Likes,2.4,0.1,0.003,2.3,2.5
+Engagement Rate,0,0,0.003,-0.08,0.09
+Clicks,0,0,0.004,-0.02,0.02
+Videos Views,12.9,2,0.004,10.9,14.9
+Customer Wait Time,0,0,0.002,0,0

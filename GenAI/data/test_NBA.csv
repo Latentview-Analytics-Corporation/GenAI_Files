@@ -1,0 +1,7 @@
+﻿S.No,Next Best Product,Next Best Action,Customer Segment,Total Customers,Positive Causality,Negative Causality,Effect,Priority
+1,Bookings,Loyalty,Segment_1_Loyalty_sub1_atomic_1,32,Interest_rate,Tenure,3.94%,1
+2,Bookings,Loyalty,Segment_1_Loyalty_sub1_atomic_3,32,Number of Dependents,Interest_rate,3.43%,2
+3,Bookings,Loyalty,Segment_1_Loyalty_sub1_atomic_5,31,Current_statement_month,Interest_rate,3.41%,3
+4,Bookings,Loyalty,Segment_1_Loyalty_sub1_atomic_2,32,Interest_rate,Tenure,3.22%,4
+5,Cobrand,Loyalty,Segment_1_Loyalty_sub1_atomic_5,25,min_Month_payment,Early_buy_out,2.72%,5
+6,Cobrand,Loyalty,Segment_1_Loyalty_sub1_atomic_1,26,Early_buy_out,Interest_rate,2.66%,6
